@@ -1,2 +1,3 @@
 # dl-viewer
 C Source codes of the early 90's DL Animation Viewer for Ms-Dos pc with VGA
+I was used to compile it with Turbo C 2.0 Borland with a Large memory model...
